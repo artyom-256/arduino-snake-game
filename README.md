@@ -1,4 +1,4 @@
-# Aduino-Snake-Game
+# Aduino Snake Game
 
 Implementation of a snake game https://en.wikipedia.org/wiki/Snake_(video_game_genre) on Arduino using 8x8 LED matrix.
 The next aspects of the game are customizeable via constants in the code:
